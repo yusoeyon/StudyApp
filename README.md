@@ -1,1 +1,1 @@
-# StudyApp
+# StudyApp made with react-native
